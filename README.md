@@ -1,13 +1,13 @@
 # Hello, I'm [Your Name] 👋
 
-![DevOps & Cybersecurity Animation](https://via.placeholder.com/600x200.gif?text=DevOps+and+Cybersecurity+in+Action)
-*Animated representation of my work in DevOps, Backend Development, and Cybersecurity*
+![DevOps & Cybersecurity Animation](https://via.placeholder.com/600x200/1a1a1a/ffffff.gif?text=DevOps+and+Cybersecurity+-+Dark+Theme)
+*Dark-themed animation showcasing my work in DevOps, Backend Development, and Cybersecurity*
 
 ---
 
 ## About Me
 
-I’m a passionate **DevOps Engineer**, **Backend Developer**, and **Cybersecurity SME** with a focus on building secure, scalable, and efficient systems. With hands-on experience in automation, cloud infrastructure, and secure coding practices, I bridge the gap between development, operations, and security to deliver robust solutions.
+I’m a dedicated **DevOps Engineer**, **Backend Developer**, and **Cybersecurity SME** specializing in secure, scalable, and automated systems. With a strong foundation in cloud infrastructure, backend programming, and cybersecurity best practices, I create solutions that prioritize efficiency and resilience.
 
 - 🌐 **Location:** [Your Location]  
 - 📧 **Email:** [your.email@example.com]  
@@ -71,7 +71,7 @@ Explore more projects on my [GitHub profile](https://github.com/Codex-v)!
 
 ## Get in Touch
 
-I’m always open to collaborating on innovative projects or discussing DevOps, backend development, and cybersecurity challenges. Feel free to reach out!
+I’m excited to collaborate on projects involving DevOps, backend systems, or cybersecurity. Reach out to discuss ideas or opportunities!
 
 - 📩 Email: [your.email@example.com]  
 - 💬 DM me on [Twitter/X](https://twitter.com/yourhandle)  
